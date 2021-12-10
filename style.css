@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap");
+body {
+    font-family: "Mukta", sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-transform: capitalize;
+}
+
+.name-highlight {
+    color: orange;
+}
+
+h3 {
+    text-transform: capitalize;
+    font-size: 24px;
+}
+
+.professional {
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
+
+.half-width {
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    width: 40%;
+}
+
+.half-width img {
+    width: 100%;
+}
