@@ -43,7 +43,7 @@ h3 {
     padding: 3px 6px;
     border-radius: 6%;
     color: whitesmoke;
-    box-shadow: 1px 1.5px 2px rgba(0, 0, 0, 0.438);
+    box-shadow: 1px 1px 1.5px rgba(0, 0, 0, 0.438);
 }
 
 .button:hover {
@@ -53,4 +53,44 @@ h3 {
 .button:active {
     transform: translateY(0.8px);
     box-shadow: 0.5px 1px 1.5px rgba(0, 0, 0, 0.11);
+}
+
+.img-one {
+    width: 35%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+}
+
+.dream {
+    width: 45%;
+    float: right;
+}
+
+.h-one {
+    margin-bottom: 0px;
+    display: block;
+    text-transform: capitalize;
+}
+
+.h-three {
+    display: inline-block;
+    text-transform: capitalize;
+    margin-top: 0px;
+}
+
+.p-two {
+    text-align: justify;
+    margin-top: 0px;
+}
+
+.img-three {
+    position: absolute;
+    bottom: -26%;
+}
+
+.dream-img {
+    width: 50%;
+    right: -420%;
+    position: relative;
 }
